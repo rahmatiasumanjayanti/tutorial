@@ -51,8 +51,6 @@ Berikut adalah beberapa prinsip utama dalam Clean Code:
     Kode harus mudah dimengerti  dan dapat menjelaskan dirinya sendiri tanpa perlu banyak komentar. Pemilihan nama variabel, fungsi, dan struktur harus jelas mencerminkan maksud dan tujuan kode tersebut dibuat.
     
 8. Testable and Tested
-    
-
 - Testable: Kode harus dapat diuji dengan mudah dengan  desain kode yang modular sehingga bagian-bagian kecilnya dapat diuji secara independen.
     
 - Tested: Kode harus disertai dengan pengujian, baik itu Unit Tests, Integration Tests, maupun end-to-end Tests, untuk memastikan bahwa kode bekerja sesuai harapan.
@@ -107,11 +105,9 @@ Dengan memahami konsep Clean Code, developer dapat menulis kode yang lebih baik,
 Kode yang buruk sering kali muncul karena tekanan waktu, kurangnya perhatian terhadap detail, atau budaya kerja yang tidak mendukung praktik pemrograman yang baik. konsekuensi dari kode yang berantakan:
 
 1. Produktivitas Menurun: Seiring waktu, kode yang berantakan menjadi semakin sulit dipahami, menyebabkan pengembang harus menghabiskan waktu lebih lama untuk memahami dan memodifikasinya.  
-      
     
 2. Bug dan Masalah Tak Terduga: Kode yang tidak terstruktur cenderung memiliki lebih banyak bug karena ketidakkonsistenan dan kurangnya pemahaman yang jelas tentang bagaimana sistem bekerja.  
       
-    
 3. Ketergantungan yang Kompleks: Kode yang buruk sering kali memiliki banyak dependensi yang sulit diurai, membuat perubahan kecil pun berisiko menyebabkan kegagalan besar.
     
 

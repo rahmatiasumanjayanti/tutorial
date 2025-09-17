@@ -61,14 +61,12 @@ Contoh:
 ❌ Bad Example – GetBookByName  
 
 - Id: Seharusnya inputnya adalah Name, karena fungsi ini mencari buku berdasarkan nama, bukan ID. Lalu, nama ini kurang jelas karena tidak menjelaskan bahwa ini adalah ID buku.
-    
 - Record: Nama ini terlalu umum dan tidak menjelaskan bahwa ini adalah data buku.
 
 
 ✅ Good Example – GetBookById
 
 - BookId → Input parameter ini sesuai karena fungsi mencari buku berdasarkan ID, bukan berdasarkan nama.
-    
 - BookRecord → Nama ini lebih deskriptif karena menunjukkan bahwa hasilnya adalah rekaman data buku.  
   
 
@@ -81,16 +79,13 @@ Contoh:
 ❌ Bad Example – GetBookAndMemberDetails
 
 - Nama fungsi ini menyiratkan bahwa fungsi akan mengambil detail buku dan detail anggota.
-    
-- Namun, berdasarkan hasilnya, fungsi ini hanya mengembalikan BookDetails tanpa informasi tentang anggota.
-    
+- Namun, berdasarkan hasilnya, fungsi ini hanya mengembalikan BookDetails tanpa informas tentang anggota.
 - Ini bisa membingungkan bagi developer lain yang menggunakannya, karena mereka mungkin mengira akan mendapatkan informasi tentang anggota juga.
 
 
 ✅ Good Example – GetBookDetails
 
 - Nama ini lebih akurat karena fungsi memang hanya mengembalikan BookDetails.
-    
 - Menghindari disinformasi dan membuat kode lebih mudah dipahami. 
 
 
@@ -368,4 +363,4 @@ Meaningful Names adalah dasar dari clean code. Dengan memberikan nama yang jelas
 *Good code starts with good naming!
 
   
-**
+![[Screenshot 2025-09-04 094651.png]]
