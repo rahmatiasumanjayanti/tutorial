@@ -360,7 +360,7 @@ Noun + Object + Prefix
 
 Meaningful Names adalah dasar dari clean code. Dengan memberikan nama yang jelas dan deskriptif, kita dapat membuat kode yang lebih mudah dibaca, dipelihara, dan dikembangkan. Praktik ini meningkatkan efisiensi tim dan mengurangi kemungkinan error dalam pengembangan perangkat lunak.
 
-***Good code starts with good naming!*
+***Good code starts with good naming!***
 
 ![](img/alert.png)
   
