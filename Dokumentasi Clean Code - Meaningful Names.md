@@ -363,4 +363,4 @@ Meaningful Names adalah dasar dari clean code. Dengan memberikan nama yang jelas
 *Good code starts with good naming!
 
   
-![[Screenshot 2025-09-04 094651.png]]
+![[alert.png]]
